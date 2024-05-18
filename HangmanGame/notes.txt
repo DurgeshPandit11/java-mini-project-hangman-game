@@ -1,0 +1,8 @@
+keyboard, word hint, dashes, 
+
+ ----------
+ |        |
+ O
+\ /
+ |
+/ \
