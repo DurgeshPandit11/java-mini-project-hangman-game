@@ -6,10 +6,10 @@ Hangman game made using Java and the Java Swing library for GUI.
 
 
 **Steps to duplicate the project on your local machine:**
-1.	Make sure Java is installed on your machine
+1.	Make sure Java is installed on your machine.
 2.	Simply clone the repository using the following command: git clone https://github.com/DurgeshPandit11/java-mini-project-hangman-game.git
-3.	Open the folder in your preferred code editor (e.g. Visual Studio Code)
-4.	Navigate to HangmanGame >> DurgeshHangmanMain.java file and run it
+3.	Open the folder in your preferred code editor (e.g. Visual Studio Code).
+4.	Navigate to HangmanGame >> DurgeshHangmanMain.java file and run it.
 5.	You should see an output window as shown below:
  ![image](https://github.com/DurgeshPandit11/java-mini-project-hangman-game/assets/115443660/7c0636ce-2094-432d-8502-ffae0d65fb11)
 
